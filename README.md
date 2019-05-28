@@ -36,6 +36,7 @@
 ![用户端业务结构图](http://img.beastwn.com/ipic/hgxe1.png)
 
 #### 管理端
+![管理端业务结构图](http://img.beastwn.com/ipic/fhsri.png)
 
 ## 项目环境
 
